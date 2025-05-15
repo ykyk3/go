@@ -1,3 +1,3 @@
-module github.com/yourusername/modulelearning
+module modulelearning
 
 go 1.24.3
